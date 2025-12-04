@@ -1,0 +1,6 @@
+{
+  "appId": "com.yahir.calculator",
+  "appName": "YahirsCalculator",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
